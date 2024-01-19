@@ -1,9 +1,9 @@
 let input = prompt(
-  `what would you like to do?` / n +
-    `"new" - Add a Todo` / n +
-    `"list" - List All Todos` / n +
-    `"delete" - Remove Specific Todo` / n +
-    `"quit" -Quit App` / n
+  `What would you like to do?\n` +
+    `"new" - Add a Todo\n` +
+    `"list" - List All Todos\n` +
+    `"delete" - Remove Specific Todo\n` +
+    `"quit" - Quit App\n`
 );
 
 const todos = ["Collect Chicken Eggs", "Clean Litter Box"];
